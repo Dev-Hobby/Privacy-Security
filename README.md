@@ -4,6 +4,7 @@
 
 ![Banner_PrivacyAndSecurity](https://user-images.githubusercontent.com/55116927/187592085-ee8d32e5-51a3-4503-b652-a61b96f09ef3.png)
 
+![privacy-and-security-update](https://user-images.githubusercontent.com/55116927/187591668-bb64353a-c16a-451d-aea5-271e71e9f520.jpg)
 
 .
 
@@ -12,4 +13,3 @@
 
 .
 
-![privacy-and-security-update](https://user-images.githubusercontent.com/55116927/187591668-bb64353a-c16a-451d-aea5-271e71e9f520.jpg)
